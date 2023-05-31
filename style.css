@@ -56,6 +56,7 @@ p{
     display: inline-block;
     width: 0;
     height: 130px;
+    border-radius: 50px;
 }
 .location{
     font-family: 'Montserrat', sans-serif;
