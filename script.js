@@ -1,6 +1,6 @@
 const ipapiUrl = 'https://ipapi.co/json/';
 const openWeatherMapUrl = 'https://api.openweathermap.org/data/2.5/weather';
-const apiKey = API_KEY;
+const apiKey = "7cc86e0719f9590c4b8aa1cd7bc6b7ce";
 const imgUrl = 'http://openweathermap.org/img/wn/';
 
 
